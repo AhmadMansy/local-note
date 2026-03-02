@@ -1,0 +1,18 @@
+# Local Note - Requirements
+# المتطلبات الأساسية | Basic Requirements
+
+# GUI Framework
+# إطار عمل الواجهة الرسومية
+customtkinter==5.2.1
+
+# Markdown Processing
+# معالجة Markdown
+markdown==3.5.1
+python-bidi==0.4.2
+
+# File Operations
+# عمليات الملفات (مدمج في Python 3.8+)
+# pathlib is built-in to Python 3.8+
+
+# Development dependencies are in requirements-dev.txt
+# متطلبات التطوير في requirements-dev.txt

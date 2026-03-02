@@ -1,0 +1,24 @@
+# Development Dependencies | متطلبات التطوير
+# Use these for development and testing | استخدم هذه للتطوير والاختبار
+
+# Testing | الاختبارات
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Code Quality | جودة الكود
+pylint==3.0.3
+black==23.12.1
+mypy==1.7.1
+isort==5.13.2
+
+# Type Stubs | أنواع الكود
+types-PyYAML==6.0.12.12
+
+# Documentation | الوثائق
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+
+# Security | الأمان
+bandit==1.7.6
+safety==2.3.5

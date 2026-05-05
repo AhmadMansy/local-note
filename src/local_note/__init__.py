@@ -10,3 +10,8 @@ __license__ = "MIT"
 from local_note.__main__ import main
 
 __all__ = ["__version__", "main"]
+
+
+
+
+# ali mansy

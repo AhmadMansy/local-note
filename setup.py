@@ -1,5 +1,5 @@
 """
-Setup script for Local Note
+Setup script for Local Note.
 """
 from pathlib import Path
 
